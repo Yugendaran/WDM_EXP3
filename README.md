@@ -41,11 +41,11 @@ for each wear category.</p>
 <p align="justify">
 8. Visulaize the sequence patterns using matplotlib.
 </p>
+
 ### Program:
 
 
 NAME: YUGENDARAN G
-
 REG.NO:212221220063
 
 
